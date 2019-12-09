@@ -14,7 +14,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import torch.functional as F
 from unet_model import UNet
-# from model_PaintsChainer import UNet
 from data_loader import Img_tran_AB
 
 if __name__ == '__main__':
