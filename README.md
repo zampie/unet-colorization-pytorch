@@ -29,7 +29,7 @@ test_costom.py, test one image
 test_folder.py, test a folder  
 
 Get the pretrained model: 
-https://drive.google.com/open?id=1PLlzqh16ywQAjseW6ZmdaXMvts17A5GP
+https://drive.google.com/file/d/1vI4ZaK3ZnZtX3aah2E7iHwlnBJ59RYAS/view?usp=sharing
 
 
 About the dataset:  
