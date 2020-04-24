@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1vI4ZaK3ZnZtX3aah2E7iHwlnBJ59RYAS/view?usp=shari
 
 About the dataset:  
 Illustrations are crawled from https://konachan.net/.  
-Edges are extractd by a laplacian laplacian filter.  
+Edges are extractd by a laplacian filter.
 You can download the dataset from:
 https://drive.google.com/open?id=1elHLWSpr-T2aSpAttYYMbDnj7sj5vs-Q
 
